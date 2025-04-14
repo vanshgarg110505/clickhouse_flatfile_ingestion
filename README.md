@@ -2,7 +2,8 @@
 
 A modern web application for seamlessly transferring data between ClickHouse databases and flat files (CSV, TSV, etc.) in both directions. Built with Spring Boot, React, and Docker.
 
-![Project Screenshot](docs/screenshot.png)
+![image](https://github.com/user-attachments/assets/4aa6ee2b-b96c-43d4-93c9-f687d636c145)
+
 
 ## Features
 
@@ -11,6 +12,9 @@ A modern web application for seamlessly transferring data between ClickHouse dat
   - Select tables and columns to export
   - Export data in various flat file formats
   - Secure JWT-based authentication
+ 
+  - ![image](https://github.com/user-attachments/assets/caa82e71-dc98-4d97-b3dc-74506e763b18)
+
 
 - **File to ClickHouse Import**
   - Upload CSV/TSV files
@@ -18,6 +22,9 @@ A modern web application for seamlessly transferring data between ClickHouse dat
   - Data preview before import
   - Column mapping support
   - Multiple delimiter support
+ 
+  - ![image](https://github.com/user-attachments/assets/23fbe3ce-ac2c-425e-93e4-4c3ee788cbbe)
+
 
 ## Prerequisites
 
