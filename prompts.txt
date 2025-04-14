@@ -1,0 +1,97 @@
+# AI Development Prompts for ClickHouse FlatFile Ingestion Tool
+
+This file documents the key prompts used with AI assistance (Claude) during the development of this project.
+
+## Initial Setup and Structure
+
+1. "Create a web application for transferring data between ClickHouse and flat files using Spring Boot and React"
+   - Used to scaffold the initial project structure
+   - Set up basic Spring Boot configuration
+   - Create React application structure
+
+2. "Set up Docker configuration for ClickHouse integration"
+   - Created docker-compose.yml
+   - Configured ClickHouse container settings
+   - Set up volume mappings
+
+## Backend Development
+
+3. "Create REST endpoints for ClickHouse operations"
+   - Developed API structure
+   - Implemented connection handling
+   - Added table and column operations
+
+4. "Implement file upload and processing functionality"
+   - Added file handling logic
+   - Created preview functionality
+   - Implemented data import/export
+
+5. "Add JWT authentication for secure ClickHouse connections"
+   - Implemented security configuration
+   - Added JWT token handling
+   - Set up CORS configuration
+
+## Frontend Development
+
+6. "Create modern UI components for the application"
+   - Designed layout structure
+   - Implemented Material-UI components
+   - Created responsive design
+
+7. "Improve the navigation and layout"
+   - Enhanced navbar design
+   - Fixed layout issues
+   - Added gradient effects
+
+8. "Add file upload interface with preview functionality"
+   - Implemented drag-and-drop
+   - Added file preview
+   - Created column selection interface
+
+## Testing and Documentation
+
+9. "Create comprehensive README documentation"
+   - Documented setup process
+   - Added usage instructions
+   - Included troubleshooting guide
+
+10. "Add proper error handling and validation"
+    - Implemented error messages
+    - Added input validation
+    - Enhanced user feedback
+
+## UI/UX Improvements
+
+11. "Make the UI more modern and better"
+    - Enhanced visual design
+    - Improved component spacing
+    - Added animations and transitions
+
+12. "Fix navbar and layout issues"
+    - Resolved duplicate navigation
+    - Improved responsive behavior
+    - Enhanced overall layout structure
+
+## Deployment and Configuration
+
+13. "Set up proper .gitignore for the project"
+    - Configured file exclusions
+    - Added Docker volume ignores
+    - Set up IDE-specific exclusions
+
+## Notes
+
+- AI assistance was primarily used for:
+  - Code structure and architecture decisions
+  - UI/UX improvements
+  - Documentation generation
+  - Bug fixing and troubleshooting
+  - Best practices implementation
+
+- Human review and testing were performed for:
+  - Security configurations
+  - Business logic implementation
+  - Final code quality
+  - User experience validation
+
+This document helps maintain transparency about AI usage in development while ensuring proper review and testing of critical components. 
